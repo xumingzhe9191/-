@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u52B3\u52A8\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|D:\\\u52B3\u52A8\\Project1\\Project1\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|D:\\\u52B3\u52A8\\Project1\\Project1\\Map.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Map.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|D:\\\u52B3\u52A8\\Project1\\Project1\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|D:\\\u52B3\u52A8\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|D:\\\u52B3\u52A8\\Project1\\Project1\\Config.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Config.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|D:\\\u52B3\u52A8\\Project1\\Project1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{212A16C4-C49A-4A77-A82A-B2B1791441CF}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u52B3\u52A8\\Project1\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "D:\\\u52B3\u52A8\\Project1\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-12T07:41:32.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Map.hpp",
+              "DocumentMoniker": "D:\\\u52B3\u52A8\\Project1\\Project1\\Map.hpp",
+              "RelativeDocumentMoniker": "Project1\\Map.hpp",
+              "ToolTip": "D:\\\u52B3\u52A8\\Project1\\Project1\\Map.hpp",
+              "RelativeToolTip": "Project1\\Map.hpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-12T07:54:36.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "D:\\\u52B3\u52A8\\Project1\\Project1\\Map.cpp",
+              "RelativeDocumentMoniker": "Project1\\Map.cpp",
+              "ToolTip": "D:\\\u52B3\u52A8\\Project1\\Project1\\Map.cpp",
+              "RelativeToolTip": "Project1\\Map.cpp",
+              "ViewState": "AgIAABYBAAAAAAAAAAAAAAgCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-12T07:55:00.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.hpp",
+              "DocumentMoniker": "D:\\\u52B3\u52A8\\Project1\\Project1\\Player.hpp",
+              "RelativeDocumentMoniker": "Project1\\Player.hpp",
+              "ToolTip": "D:\\\u52B3\u52A8\\Project1\\Project1\\Player.hpp",
+              "RelativeToolTip": "Project1\\Player.hpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-12T07:55:36.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Config.hpp",
+              "DocumentMoniker": "D:\\\u52B3\u52A8\\Project1\\Project1\\Config.hpp",
+              "RelativeDocumentMoniker": "Project1\\Config.hpp",
+              "ToolTip": "D:\\\u52B3\u52A8\\Project1\\Project1\\Config.hpp",
+              "RelativeToolTip": "Project1\\Config.hpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-12T07:53:41.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\\u52B3\u52A8\\Project1\\Project1\\Player.cpp",
+              "RelativeDocumentMoniker": "Project1\\Player.cpp",
+              "ToolTip": "D:\\\u52B3\u52A8\\Project1\\Project1\\Player.cpp",
+              "RelativeToolTip": "Project1\\Player.cpp",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-12T07:56:04.625Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
